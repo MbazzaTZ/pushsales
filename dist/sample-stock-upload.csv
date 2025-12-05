@@ -1,0 +1,6 @@
+type,smartcard_number,serial_number
+Full Set (FS),SC-001-2024,SN-FS-00001
+Decoder Only (DO),SC-002-2024,SN-DO-00001
+Full Set (FS),SC-003-2024,SN-FS-00002
+Decoder Only (DO),SC-004-2024,SN-DO-00002
+Full Set (FS),SC-005-2024,SN-FS-00003
